@@ -2,6 +2,9 @@ package three
 
 import "fmt"
 
-func Three() {
+func SayThree() {
 	fmt.Println("Three!")
 }
+
+const Five = 5
+const Fivehundredfiftyfive = 555

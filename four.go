@@ -1,7 +1,12 @@
 package main
 
-import "vim-completion-talk/three"
+import (
+	"fmt"
+
+	"github.com/andyjack/vim-completion-talk/three"
+)
 
 func main() {
-	three.Three()
+	three.SayThree()
+	fmt.Println(three.Fivehundredfiftyfive)
 }
