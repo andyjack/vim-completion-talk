@@ -1,5 +1,6 @@
 #!/usr/bin/perl
 
-sub yay {
-    print "Perl!\n";
-}
+use lib '.';
+use SaysThings qw( yay hooray );
+
+yay();
