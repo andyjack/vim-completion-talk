@@ -1,19 +1,15 @@
 ## One
 
-Sphinx of black quartz, judge my vow.
+Felis catus is your taxonomic nomenclature
 
 ## Two
 
-Lorem ipsum dolor sit amet.
+An endothermic quadruped, carnivorous by nature
 
 ## Three
 
-Wee Willie Winkie rins through the toon.
+Your visual, olfactory, and auditory senses
 
 ## Four
 
-Hello, world!
-
-## Five
-
-Number 9, Number 9, Number 9, Number 9...
+Contribute to your hunting skills and natural defenses
